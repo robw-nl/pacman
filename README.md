@@ -1,6 +1,6 @@
 I started experimenting with a simple pacman maze, dots for pellets 
 where one triangle (pacman) was followed by 3 circles (ghosts) coming 
-from different angles. This simpple experiment ended up becoming a 
+from different angles. This simple experiment ended up becoming a 
 fulltime, 2-months of hard work C project where I eventually started 
 to use Gemini 3.1 Pro as a senior co-developer to fine-tune the code, 
 making it error free and fixing some ghost AI faults that crept in. 
