@@ -135,7 +135,6 @@ typedef struct {
     int globalPelletCounter;
 
     /* Pause / Freeze State */
-
     int freezeTimer;
     int eatenGhostIndex;
     int lastEatenScore;
