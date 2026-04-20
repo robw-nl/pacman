@@ -13,5 +13,5 @@ you're even treated to the original game crash artifacts, after which
 you can continue. Be ready for a week of non stop playing for that!
  
 For info on the gameplay and AI rules, these are good sources:
-https://pacman30thanniversary.net/pacman-ghost-movement-pattern/
+https://pacman30thanniversary.net/pacman-ghost-movement-pattern/ and 
 https://aighost.co.uk/pac-man-ghost-ai-how-the-classic-games-enemies-think/ 
