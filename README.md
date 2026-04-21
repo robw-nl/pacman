@@ -1,6 +1,6 @@
 **Introduction**
 
-I started experimenting with a simple PacMan maze, using dots for pellets, where one triangle (PacMan) is followed by three circles (ghosts) coming from different angles. This simple experiment evolved into a full-time, two-month C project, during which I used Gemini 3.1 Pro as a senior co-developer to fine-tune the code, making it error-free and improving the ghost AI for full authenticity.
+I started experimenting with a simple PacMan maze, using dots for pellets, where one triangle (PacMan) was followed by three circles (ghosts) coming from different angles. This simple experiment evolved into a full-time, two-month C project, during which I used Gemini 3.1 Pro as a senior co-developer to fine-tune the code, making it error-free and improving the ghost AI for full authenticity.
 
 I'm still improving the game, but it is fully stable and free of memory leaks. It features an auto demo mode (which activates if the user doesn't press Enter to start). It includes all the original sounds, sprites, and, most importantly, a true implementation of the original ghost AI. And it is a challenging game right from the start. If you reach level 256, you'll even experience the original integer overflow bug and game crash artifacts, after which you can continue. Be prepared for a week of non-stop play to achieve this!
 
